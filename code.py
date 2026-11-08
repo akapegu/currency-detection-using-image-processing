@@ -6,8 +6,6 @@ This script implements a computer vision-based currency detection system that ca
 identify and classify Indian Rupee and Japanese Yen banknotes using advanced
 image processing techniques including custom Canny edge detection.
 
-Author: [Your Name]
-Date: [Current Date]
 """
 
 import cv2
